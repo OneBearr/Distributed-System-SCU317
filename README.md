@@ -1,5 +1,3 @@
-# Distributed-System-317
-
-Code Repo for my 317 :)
+Repo for my File Retrieval Server :)
 
 If you want more details, please go to directory Programming1 -> ReadMe.pdf
